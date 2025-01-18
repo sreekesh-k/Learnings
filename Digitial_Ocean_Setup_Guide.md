@@ -144,5 +144,3 @@
 2. No need to restart Nginx unless its configuration changes.
 
 ---
-
-Save this as a `.md` file.
