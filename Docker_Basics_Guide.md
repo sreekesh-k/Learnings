@@ -188,4 +188,3 @@ volumes:
 
 ---
 
-This guide introduces the basics of Docker, setting up a Node.js application, and managing it using Docker Compose, networks, and volumes.
